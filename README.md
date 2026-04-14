@@ -4,7 +4,7 @@
 
 This project predicts house prices using Machine Learning (Linear Regression).
 
----
+--
 
 ##  Dataset
 
