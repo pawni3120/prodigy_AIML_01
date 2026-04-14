@@ -48,6 +48,6 @@ The model predicts house prices based on input features.
 
 ---
 
-## 🙋 Author
+## Author
 
 pawni3120
